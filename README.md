@@ -23,7 +23,7 @@ Sugestões de funcionalidades:
 - **Font Awesome Icons**
 
 ---
-👉 [**Ver Demonstração Online**](https://SEU_USUARIO.github.io/minha_cidade_by_maturbuk/)
+👉 [**Ver Release**](https://github.com/maturbuk/Prototipo-APP---Minha-Cidade-/releases)
 
 **Desenvolvido por Mariana Turbuk**
 *Graphic Designer*
