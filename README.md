@@ -9,7 +9,7 @@ Estudo de caso e template de interface para aplicativos municipais, utilizando i
 - **Interface Limpa:** Foco na clareza e transparência das informações.
 - **Navegação Intuitiva:** Menu inferior para acesso rápido aos serviços.
 - **Tipografia:** Uso da fonte *Poppins* para leitura confortável no mobile.
-- **Link do Projeto (navegável e prototipado):** [Acesse o Figma aqui](https://www.figma.com/design/1KES6TEWLE73BJsM7gxBqs/Projetos-de-Portais?node-id=0-1&t=TRTgzsN0o18xP8b4-1)
+- **Link do Projeto (navegável e prototipado):** [Acesse o Figma aqui](https://www.figma.com/design/PYf6BT5hTm7p3J3c0nsomj/Projetos-de-Portais?node-id=0-1&t=dm8EDTyWIJgbFcnw-1)
 
 ## 🏗️ O que tem no Protótipo?
 Sugestões de funcionalidades:
